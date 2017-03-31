@@ -4,3 +4,4 @@ google_analytics: UA-96549382-1
 
 gems:
   - jekyll-mentions
+  - jekyll-github-metadata
